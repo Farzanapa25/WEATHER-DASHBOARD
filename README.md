@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-*DESCRIPTION OF OUR TASK*:This project is a Weather Dashboard Web App developed using React.js. The app fetches real-time weather data from a public API (OpenWeatherMap) and displays current weather information for any city entered by the user.
+#DESCRIPTION OF OUR TASK*:This project is a Weather Dashboard Web App developed using React.js. The app fetches real-time weather data from a public API (OpenWeatherMap) and displays current weather information for any city entered by the user.
 
 Objective:
 To build an interactive and visually appealing weather application that provides users with:
@@ -41,7 +41,7 @@ Tech Stack:
 
 *Styling: CSS (custom, responsive)
 
-Output:
+#OUTPUT:
 A real-time weather dashboard with live data updates and elegant visuals. This task demonstrates API handling, dynamic state management in React, and clean UI development.
 
 ![Image](https://github.com/user-attachments/assets/3a077a6c-f12e-4a80-b837-3983bc24bcc5)
