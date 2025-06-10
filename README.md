@@ -52,4 +52,4 @@ The UI is designed to be:
 
 ![Image](https://github.com/user-attachments/assets/037caa59-e189-4338-be70-e73b79868fa2)
 
->>>>>>> 4d65110573ebcb0f7993c022fa011f621afc88d3
+
