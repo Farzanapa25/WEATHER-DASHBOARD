@@ -63,7 +63,7 @@ This application is deployed using GitHub Pages and can be accessed directly at:
 
 -Enjoy clean weather insights in a visually appealing interface
 
-#OUTPUT
+# OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/271581ce-4736-4c7e-b314-99a754b5b11e)
 
