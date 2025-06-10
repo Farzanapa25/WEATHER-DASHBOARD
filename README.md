@@ -12,37 +12,38 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-#DESCRIPTION OF OUR TASK :This project is a Weather Dashboard Web App developed using React.js. The app fetches real-time weather data from a public API (OpenWeatherMap) and displays current weather information for any city entered by the user.
+#DESCRIPTION OF OUR TASK :As part of the internship, we were assigned to build a Weather Dashboard web application using React.js. The main objective was to fetch and display real-time weather information based on user input, integrating with a public API (OpenWeatherMap).
 
-Objective:
-To build an interactive and visually appealing weather application that provides users with:
+This application allows users to:
 
-*Current temperature
+-Enter any city name manually.
 
-*Weather conditions (e.g., clear, cloudy, rainy)
+-View the current weather details, including temperature, humidity, wind speed, and an icon representing weather conditions.
 
-*Humidity and wind speed
+-View a 5-day weather forecast (excluding today), with separate weather cards showing date, temperature, humidity, and forecast icons.
 
-*City name and country
+The UI is designed to be:
 
-Features:
-*Search Functionality – Users can input any city to get updated weather info.
+-User-friendly and responsive, using Bootstrap and custom CSS.
 
-*Responsive UI – Clean, modern design that adapts across devices.
+-Visually appealing with gradient headers, white backgrounds, and modern card layouts for weather data.
 
-*API Integration – Uses the OpenWeatherMap API to fetch live data.
+# Technologies Used:
+-React JS for frontend component development
 
-*Error Handling – Displays a user-friendly message if a city is not found.
+-OpenWeatherMap API for live weather and forecast data
 
-Tech Stack:
-*Frontend: React.js
+-Bootstrap 5 for layout and styling
 
-*API: OpenWeatherMap (JSON format)
+-CSS3 for custom design and responsiveness
 
-*Styling: CSS (custom, responsive)
+# Deliverables:
+-A fully working React application.
+
+-Proper folder structure with clean code.
+
+-Hosted or demo-ready version if needed.
 
 #OUTPUT:
-A real-time weather dashboard with live data updates and elegant visuals. This task demonstrates API handling, dynamic state management in React, and clean UI development.
 
-![Image](https://github.com/user-attachments/assets/3a077a6c-f12e-4a80-b837-3983bc24bcc5)
 
