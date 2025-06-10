@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-Task Description:
+# Task Description:
 
  As part of the internship, we were assigned to build a Weather Dashboard web application using React.js. The main objective was to fetch and display real-time weather information based on user input, integrating with a public API (OpenWeatherMap).
 
