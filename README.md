@@ -44,5 +44,5 @@ Tech Stack:
 Output:
 A real-time weather dashboard with live data updates and elegant visuals. This task demonstrates API handling, dynamic state management in React, and clean UI development.
 
-
+![Image](https://github.com/user-attachments/assets/3a077a6c-f12e-4a80-b837-3983bc24bcc5)
 
