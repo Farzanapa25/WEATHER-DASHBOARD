@@ -1,5 +1,3 @@
-🔗 [Live Demo](https://farzanapa25.github.io/WEATHER-DASHBOARD/)
-
 # WEATHER-DASHBOARD
 
 *COMPANY*: CODTECH IT SOLUTIONS
@@ -49,6 +47,8 @@ The UI is designed to be:
 -Hosted or demo-ready version if needed.
 
 # OUTPUT:
+# URL:
+🔗 https://farzanapa25.github.io/WEATHER-DASHBOARD/
 
 ![Image](https://github.com/user-attachments/assets/037caa59-e189-4338-be70-e73b79868fa2)
 
