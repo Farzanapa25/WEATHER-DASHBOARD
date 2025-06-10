@@ -14,42 +14,60 @@
 
 # Task Description:
 
- As part of the internship, we were assigned to build a Weather Dashboard web application using React.js. The main objective was to fetch and display real-time weather information based on user input, integrating with a public API (OpenWeatherMap).
+🌤️ Weather Dashboard App
+Welcome to the Weather Dashboard App! This React-based web application allows users to search and view real-time weather information for any city around the world. It offers a clean, responsive design and integrates with the OpenWeatherMap API to deliver up-to-date forecasts.
 
-This application allows users to:
+🔍 Features
+Search: Enter any city name to get the current weather.
 
--Enter any city name manually.
+Current Weather Details: Displays temperature, humidity, wind speed, and a representative weather icon.
 
--View the current weather details, including temperature, humidity, wind speed, and an icon representing weather conditions.
+5-Day Forecast: Shows weather conditions for the next five days (excluding today), including date, icon, temperature, and humidity.
 
--View a 5-day weather forecast (excluding today), with separate weather cards showing date, temperature, humidity, and forecast icons.
+Responsive Design: Fully optimized for desktops, tablets, and mobile devices.
 
-The UI is designed to be:
-
--User-friendly and responsive, using Bootstrap and custom CSS.
-
--Visually appealing with gradient headers, white backgrounds, and modern card layouts for weather data.
-
-# Technologies Used:
--React JS for frontend component development
-
--OpenWeatherMap API for live weather and forecast data
-
--Bootstrap 5 for layout and styling
-
--CSS3 for custom design and responsiveness
-
-# Deliverables:
--A fully working React application.
-
--Proper folder structure with clean code.
-
--Hosted or demo-ready version if needed.
-
-# OUTPUT:
-# URL:
+Live Demo:
 🔗 https://farzanapa25.github.io/WEATHER-DASHBOARD/
 
-![Image](https://github.com/user-attachments/assets/037caa59-e189-4338-be70-e73b79868fa2)
+🛠️ Technologies Used
+React – JavaScript library for building dynamic UIs.
+
+Bootstrap 5 – Frontend framework for responsive design.
+
+OpenWeatherMap API – Source for live weather data.
+
+CSS3 – For styling and layout customization.
+
+🖥️ Installation
+Clone the repository:
+git clone https://github.com/Farzanapa25/WEATHER-DASHBOARD.git
+
+Navigate to the project directory:
+
+cd WEATHER-DASHBOARD
+
+Install dependencies:
+npm install
+
+Start the development server:
+npm start
+Open your browser and go to:
+http://localhost:3000
+🚀 Deployment
+This application is deployed using GitHub Pages and can be accessed directly at:
+
+🔗 https://farzanapa25.github.io/WEATHER-DASHBOARD/
+
+📌 Usage
+Type a city name into the search bar.
+
+View the current weather data for that city.
+
+Scroll to view the 5-day forecast section.
+
+Enjoy clean weather insights in a visually appealing interface
+
+
+
 
 
