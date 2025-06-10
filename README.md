@@ -14,7 +14,6 @@
 
 # Task Description:
 
-# Weather Dashboard App
 Welcome to the Weather Dashboard App! This React-based web application allows users to search and view real-time weather information for any city around the world. It offers a clean, responsive design and integrates with the OpenWeatherMap API to deliver up-to-date forecasts.
 
 # Features
@@ -65,6 +64,6 @@ This application is deployed using GitHub Pages and can be accessed directly at:
 -Enjoy clean weather insights in a visually appealing interface
 
 #OUTPUT
-
+![Image](https://github.com/user-attachments/assets/271581ce-4736-4c7e-b314-99a754b5b11e)
 
 
